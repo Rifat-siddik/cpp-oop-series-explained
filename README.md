@@ -3,3 +3,4 @@ A beginner-friendly series explaining Object-Oriented Programming in C++ with si
 
 
 1. [OOP Basics](./01-oop-basics) — Procedural vs Object-Oriented ✅
+2. [Classes & Objects](./02-classes-objects) — Blueprint vs instance ✅
